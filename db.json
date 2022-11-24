@@ -1,0 +1,86 @@
+{
+  "Garagem de veiculos":[
+      {
+          "id": 1,
+          "nivel": 1,
+          "capacidae": 10,
+          "tipos":"Motos,triciclos e quadriciclos",
+          "Classe_id":1
+      },
+      {
+          "id":2,
+          "nivel":2,
+          "capacidade":20,
+          "tipos":"Carros e caminhonetes",
+          "Classe_id":2
+      },
+      {
+          "id":3,
+          "nivel":3,
+          "capacidade":30,
+          "tipos":"Ônibus e Micro-ônibus",
+          "Classe_id":3
+
+      },
+      {
+          "id":4,
+          "nivel":4,
+          "capacidade":40,
+          "tipos":"Caminhões, Carretas e MotorHome",
+          "Classe_id":3
+
+      }
+  ],
+
+  "Classe":[
+      {
+      "id":1,
+      "Nivel":"1",
+      "Tipo":"Veiculos Leves"
+     
+  },
+  {
+      "id":2,
+      "Nivel":"2",
+      "Tipo":"Veiculos medios"
+  },
+  {
+      "id":3,
+      "Nivel":"3 e 4",
+      "Tipo":"Veiculos Pesados"
+  }
+],
+"Unidades":[
+  {
+      "id":1,
+      "nome":"Protect Garagens - Central",
+      "Endereço":"Avenida X, Nº:XX , Bairro: XXXXX XXXX",
+      "Telefone":"(XX) XXXXXXXXX"
+  },
+  {
+      "id":2,
+      "nome":"Protect Garagens - Filial",
+      "endereço": "Avenida ZZ, Nº:S/N , Bairro: ZZZZ ZZZZZ",
+      "Telefone": "(ZZ) ZZZZZZZZ"
+  },
+  {
+      
+      "id":2,
+      "nome":"Protect Garagens - Filial",
+      "endereço": "Rua Y, Nº:YY , Bairro: YYYY YYYY",
+      "Telefone": "(YY) YYYYYYYY"
+      
+  },
+  {
+      
+      "id":2,
+      "nome":"Protect Garagens - Filial",
+      "endereço": "Avenida D, Nº:DD , Bairro: DDDDD DDDDD",
+      "Telefone": "(DD) DDDDDDD"
+    
+  }
+
+]
+
+
+}
